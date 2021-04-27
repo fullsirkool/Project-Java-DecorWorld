@@ -1,0 +1,14 @@
+{
+    "elements": {
+        "div": {}
+    },
+    "attributes": {
+        "data-setbg": {},
+        "v-for": {
+            "context": "div"
+        },
+        "style": {},
+        "class": {},
+        "v-model": {}
+    }
+}
